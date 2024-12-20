@@ -84,7 +84,7 @@
       <p>Terraform</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://bashlogo.com/img/symbol/png/full_colored_dark.png)" alt="Bash" width="100" height="100"/>
+      <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="Bash" width="100" height="100"/>
       <p>Bash</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
@@ -113,7 +113,6 @@
   </tr>
 </table>
 
-## 📜 Certifications
 
 
 ## 📜 Certifications
@@ -160,3 +159,25 @@
     </td>
   </tr>
 </table>
+
+
+
+## Connect Me
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://rhcsa.github.io" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Website Logo" width="100">
+        <br>Website
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/hamid-hosseinzadeh-312a54137/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn Logo" width="100">
+        <br>LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
+
