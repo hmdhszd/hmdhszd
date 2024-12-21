@@ -172,7 +172,7 @@
 
 
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
 <table>
   <tr>
