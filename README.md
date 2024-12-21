@@ -17,7 +17,7 @@
       <p>RedHat</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="100" height="100"/>
+      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="100" height="100"/>
       <p>AWS</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
@@ -40,7 +40,19 @@
 <table>
   <tr>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="100" height="100"/>
+      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="100" height="100"/>
+      <p>Prometheus</p>
+    </td>
+    <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="100" height="100"/>
+      <p>Grafana</p>
+    </td>
+    <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="100" height="100"/>
+      <p>Grafana</p>
+    </td>
+    <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
+      <img src="https://saviynt.com/hs-fs/hubfs/splunk.png?width=220&height=240&name=splunk.png" alt="Splunk" width="100" height="100"/>
       <p>Splunk</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
@@ -50,14 +62,6 @@
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK" width="100" height="100"/>
       <p>ELK</p>
-    </td>
-    <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="100" height="100"/>
-      <p>Prometheus</p>
-    </td>
-    <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="100" height="100"/>
-      <p>Grafana</p>
     </td>
   </tr>
 </table>
