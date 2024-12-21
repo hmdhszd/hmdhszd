@@ -178,19 +178,19 @@
   <tr>
     <td align="center">
       <a href="https://rhcsa.github.io" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Website Logo" width="40">
+        <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Website Logo" width="100">
         <br>Website
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/hamid-hosseinzadeh-312a54137/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn Logo" width="40">
+        <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn Logo" width="100">
         <br>LinkedIn
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@RHCSA_EX200" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube Logo" width="40">
+        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube Logo" width="100">
         <br>YouTube
       </a>
     </td>
