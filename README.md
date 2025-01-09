@@ -17,7 +17,7 @@
       <p>RedHat</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="100" height="90"/>
+      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="100" height="100"/>
       <p>AWS</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
