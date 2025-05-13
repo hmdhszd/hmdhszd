@@ -116,8 +116,8 @@
       <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="100" height="100"/>
       <p>Cisco</p>
     </td>
-    <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="https://1000logos.net/wp-content/uploads/2021/05/MikroTik-logo-768x432.png" alt="MikroTik" width="100" height="100"/>
+    <td align="center" style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <img src="https://www.mtut.pk/wp-content/uploads/2018/11/mtcna-300x150.png" alt="MikroTik" width="150" height="90"/>
       <p>MikroTik</p>
     </td>
   </tr>
