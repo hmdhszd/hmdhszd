@@ -90,7 +90,7 @@
       <p>Python</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
-      <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform" width="100" height="100"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="100" height="100"/>
       <p>Terraform</p>
     </td>
     <td align="center" style="background-color: #ffffff; padding: 15px; border-radius: 10px;">
@@ -144,7 +144,7 @@
       <p>Certified Kubernetes Administrator (CKA)</p>
     </td>
     <td align="center" style="padding: 15px; vertical-align: middle;">
-      <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="HashiCorp Certified: Terraform Associate" width="150" height="150"/>
+      <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="150" height="150"/>
       <p>HashiCorp Certified: Terraform Associate</p>
     </td>
   </tr>
